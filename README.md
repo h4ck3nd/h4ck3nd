@@ -54,6 +54,7 @@ Hola, soy **Adrián**, un apasionado de la **ciberseguridad** y el **hacking ét
 ### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![JAVA](https://img.shields.io/badge/Java%20-%23FC390E.svg?logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
 ### 🌐 Frontend
