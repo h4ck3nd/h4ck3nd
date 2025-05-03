@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="50%">
-  <img src="https://github.com/D1se0/D1se0/assets/164921056/90a9e063-8c3e-4a2c-8303-4a24be13061d" alt="Banner" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/adb5c47a-7001-41e3-87c0-42d8e8991d54" alt="Banner" width="1000"/>
 </div>
 
 <br>
