@@ -67,6 +67,7 @@ Hola, soy **Adrián**, un apasionado de la **ciberseguridad** y el **hacking ét
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-555555.svg?logo=github)
 
 ### 🧰 Herramientas
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-%232C2255.svg?logo=eclipseide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
