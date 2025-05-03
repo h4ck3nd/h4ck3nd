@@ -62,6 +62,7 @@ Hola, soy **Adrián**, un apasionado de la **ciberseguridad** y el **hacking ét
 
 ### 🗄️ BBDD y Hosting
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758f.svg?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758f.svg?logo=postgresql&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-555555.svg?logo=github)
 
 ### 🧰 Herramientas
