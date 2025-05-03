@@ -36,7 +36,7 @@ Hola, soy **Adrián**, un apasionado de la **ciberseguridad** y el **hacking ét
 
 - 📘 Grado Medio en Sistemas Microinformáticos y Redes  
 - 🔐 Certificación eJPT (Junior Penetration Tester)  
-- 🛡️ Formación en pentesting y análisis forense  
+- 🛡️ Formación en pentesting y análisis forense (Certificado Nivel 3 de Ciberseguridad)
 
 ---
 
